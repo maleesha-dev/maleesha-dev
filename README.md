@@ -15,7 +15,8 @@ If you want to see my work, check out my repositories.
 
 
 ## Fun Facts:
-  * I enjoy building mobile apps
-  * Interested in UI/UX design
-  * Always learning new technologies
-  * Focused on improving every day
+  * I enjoy listening to music.
+  * I like travelling and exploring new places.
+  * Interested in martial arts.
+  * Football is one of my favorite sports.
+  * Focused on improving every day.
